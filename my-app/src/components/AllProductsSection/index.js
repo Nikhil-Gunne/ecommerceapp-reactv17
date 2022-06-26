@@ -87,6 +87,7 @@ class AllProductsSection extends Component {
   }
 
   getProducts = async () => {
+    console.log('second commit')
     this.setState({
       apiStatus: apiStatusConstants.inProgress,
     })
