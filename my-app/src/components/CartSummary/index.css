@@ -1,0 +1,31 @@
+.cart-summary-container {
+    margin-left: auto;
+    font-family: 'Roboto';
+    display: flex;
+    flex-direction: column;
+  }
+  .total-price-text {
+    margin: 0;
+    padding: 0;
+    color: #616e7c;
+  }
+  .span-text {
+    color: #171f46;
+    font-weight: 600;
+    font-size: 26px;
+  }
+  .items-in-cart-text {
+    color: #616e7c;
+    font-size: 14px;
+    margin: 0;
+  }
+  .checkout-button {
+    background-color: #0b69ff;
+    color: #ffffff;
+    font-family: 'Roboto';
+    margin-top: 10px;
+    border: none;
+    border-radius: 6px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
