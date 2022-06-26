@@ -44,7 +44,7 @@ const sortbyOptions = [
 
 const ratingsList = [
   {
-    ratingId: '5',
+    ratingId: '4',
     imageUrl:
       'https://assets.ccbp.in/frontend/react-js/rating-four-stars-img.png',
   },
